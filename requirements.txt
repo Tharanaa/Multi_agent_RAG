@@ -1,0 +1,8 @@
+streamlit
+langchain
+langgraph
+cassio
+langchain_groq
+langchain_community
+langchain_huggingface
+wikipedia
